@@ -1,26 +1,22 @@
 👋 Hello, I'm Aryan!
-🚀 Engineer focusing on applied Ml
-📍 Jaipur 
+🚀 Engineer focused on study about the data.
+📍 Jaipur, Rajasthan, India
 📧 Email: aryangautam21350@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/aryan132k/
 👨‍💻 GitHub: https://github.com/Gtm1aryan
 
 About Me 🌐
-Blending 7+ years in ML, NLP and Software Engineering, I sculpt data & language into experiences.
+I am a recent graduate, I combine my passion for machine learning, natural language processing (NLP), and software engineering to shape data and language into meaningful experiences.
 
-Professional Highlights 🌟
-Lead AI Engineer - OneByZero, Singapore (2023 - Present)
-Senior AI Engineer - Splore, Singapore (2023)
-ML Engineer - NLP - Unscrambl, India (2017 - 2022)
 Tech Toolbox 🛠️
-Languages: Python, SQL, JavaScript, Ruby
-Frameworks & Libraries: PyTorch, Langchain, Vector Databases, Huggingface, SpaCy
-Tools: AWS, GCP, Docker, Git
-Specialties: LLMs, Generative AI, NLP
+Languages: Python, SQL  
+Frameworks & Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, MySQL, Tableau, Power BI
+Tools: JupyterLab, Anaconda, Google_Colab
+                          
 Education 🎓
-Masters in IT, The University of Melbourne
-Bachelors in Computer Applications, Bhartiya Vidyapeeth University
+Bachelors in Electronics, Swami Keshvanand Institute of Technology, Management & Gramothan(Skit)
+
 Certifications 📜
-Coursera: Deep Learning, Machine Learning, Mathematics for ML Specializations
-Udacity: NLP, ML, React Nanodegrees
-🔗 Let's ideate, innovate, and integrate AI into tomorrow. Reach out for collaborations or simply to chat about the endless possibilities of AI!
+Imarticus: Deep Learning, Machine Learning, Stats and probablity, SQL, Powerbi, Tablue
+Coursera: NLP, ML, ANN, CNN,OpenCv
+🔗 Let's explore, create, and incorporate ML/DL into the future of data science. I'm open to work on any project. 
