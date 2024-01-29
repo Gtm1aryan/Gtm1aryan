@@ -4,7 +4,7 @@
 
 📍 Jaipur, Rajasthan, India
 📧 Email: aryangautam21350@gmail.com
-🔗 LinkedIn: (https://www.linkedin.com/in/aryan132k/)
+🔗 LinkedIn: [https://www.linkedin.com/in/aryan132k/](url)
 👨‍💻 GitHub: (https://github.com/Gtm1aryan)
 
 About Me 🌐
