@@ -1,10 +1,11 @@
 # 👋 Hello, I'm Aryan! 
 
-🚀 Engineer focused on study about the data.
+## 🚀 Engineer focused on study about the data.
+
 📍 Jaipur, Rajasthan, India
 📧 Email: aryangautam21350@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/aryan132k/
-👨‍💻 GitHub: https://github.com/Gtm1aryan
+🔗 LinkedIn: (https://www.linkedin.com/in/aryan132k/)
+👨‍💻 GitHub: (https://github.com/Gtm1aryan)
 
 About Me 🌐
 I am a recent graduate, I combine my passion for machine learning, natural language processing (NLP), and software engineering to shape data and language into meaningful experiences.
