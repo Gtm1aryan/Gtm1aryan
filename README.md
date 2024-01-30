@@ -6,7 +6,7 @@
 
 📧 **Email**: aryangautam21350@gmail.com
 
-🔗 **LinkedIn**: [https://www.linkedin.com/in/aryan132k/](url)
+🔗 **LinkedIn**: [https://www.linkedin.com/in/aryan132k/]
 
 👨‍💻 **GitHub**: [https://github.com/Gtm1aryan](url)
 
