@@ -13,6 +13,7 @@ I am a recent graduate, I combine my passion for machine learning, natural langu
 
 ### Tech Toolbox 🛠️
 **Languages**: Python, SQL, C++
+
 **Frameworks & Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, MySQL, Tableau, Power BI
 
 **Tools**: JupyterLab, Anaconda, Google_Colab
