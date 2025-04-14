@@ -9,10 +9,11 @@
 🔗 **LinkedIn**: [https://www.linkedin.com/in/aryan132k/]
 
 ### About Me 🌐
-I am a recent graduate, I combine my passion for machine learning, natural language processing (NLP), and software engineering to shape data and language into meaningful experiences.
+I have done my graduation in 2023 and I have a 1 year of experience as a Business Analyst where i have use sql for cleaning the data and getting insights from them. 
+Also i combine my passion for machine learning, natural language processing (NLP), and software engineering to shape data and language into meaningful experiences.
 
 ### Tech Toolbox 🛠️
-**Languages**: Python, SQL, C++
+**Languages**: Python, SQL, Excel 
 
 **Frameworks & Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, MySQL, Tableau, Power BI
 
